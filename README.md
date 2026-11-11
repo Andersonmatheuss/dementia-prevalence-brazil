@@ -2,7 +2,7 @@
 
 Reproducibility repository for:
 
-> Pereira da Silva AM, Santos DH, Lima Júnior DVS, Tudella GCN, Cardoso LJ, Ferreira GD, de Castro WCN, Pinto ELO, Lee AM, Ahmed A, Perry G, Duarte FS. **Dementia prevalence in Brazil and why national estimates disagree: a systematic review and meta-analysis with bias analysis.** Manuscript under review.
+> Pereira da Silva AM, Santos DH, Lima Júnior DVS, Tudella GCN, Cardoso LJ, Ferreira GD, de Castro WCN, Pinto ELO, Lee AM, Ahmed A, Gonçalves OR, Perry G, Duarte FS. **Dementia prevalence in Brazil and why national estimates disagree: a systematic review and meta-analysis with bias analysis.** Manuscript under review.
 
 PROSPERO registration: CRD420261341673.
 
