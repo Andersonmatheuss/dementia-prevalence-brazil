@@ -1,0 +1,17 @@
+group,label,kind,estimate_millions,lower_millions,upper_millions
+As published,"ELSI-Brazil, authors' estimate (2019 population)",published,1.7575,,
+As published,Machine-learning classification of ELSI-Brazil (2015–16),published,2.2,,
+As published,Delphi consensus (2019 population),published,2.46,,
+As published,"GBD 2019, all ages (95% UI)",published,1.85,1.6303,2.0976
+Applied to the 2022 Census,ELSI-Brazil weighted age-specific rates,census,2.0241,,
+Applied to the 2022 Census,Delphi prevalence of 8.5%,census,2.7296,,
+"This analysis, 2022 Census",Observed counts,main,2.0483,1.1462,3.502
+"This analysis, 2022 Census",Authors' population estimates (primary),main,2.655,1.6288,4.1879
+"This analysis, 2022 Census","Primary, population-averaged",main,3.0087,1.8682,4.6831
+"This analysis, 2022 Census",All eight populations (sensitivity),main,2.7335,2.0089,3.6802
+"This analysis, 2022 Census","Primary, Bayesian (95% CrI)",main,2.6012,1.4689,4.2643
+"Bias-analysis scenarios, 2022 Census","Two-phase surveys corrected, NPV 1.00",scenario,2.6126,1.655,3.9613
+"Bias-analysis scenarios, 2022 Census","Two-phase surveys corrected, NPV 0.97",scenario,3.0165,1.9638,4.4827
+"Bias-analysis scenarios, 2022 Census","Two-phase surveys corrected, NPV 0.95",scenario,3.1949,2.0392,4.8287
+"Bias-analysis scenarios, 2022 Census",Probabilistic bias analysis of two-phase surveys,scenario,3.0087,1.9276,4.547
+"Bias-analysis scenarios, 2022 Census",ELSI-Brazil algorithm misclassification (range),range,,1.41,3.3734

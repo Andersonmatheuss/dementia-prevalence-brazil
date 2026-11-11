@@ -1,0 +1,4 @@
+"component","variance","share_pct"
+"sampling + between-study heterogeneity (delta SE^2)",127554145913.946,52.0013621284583
+"screen-sensitivity scenarios Se ~ U(0.5, 1)",117735863218.604,47.9986378715417
+"ascertainment variance after a validation study (Se ~ U(0.70, 0.80))",3790813608.83941,NA

@@ -1,0 +1,7 @@
+"domain","set","k_studies","QM","df","p"
+"sex","original k=11",11,7.22256307521029,1,0.00719928390176434
+"sex","verified (primary, no overlap)",5,0.454703250203163,1,0.500109876699063
+"education","original k=11",7,137.469094890003,5,6.17354249230101e-28
+"education","verified (primary, no overlap)",4,17.2154339874041,1,0.0000333714156772657
+"class","original k=11",4,43.842911942692,4,0.0000000069163161490911
+"class","verified (primary, no overlap)",2,23.3402722551288,4,0.0001082693570338

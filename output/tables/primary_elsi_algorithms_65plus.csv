@@ -1,0 +1,6 @@
+"source","prev","lb","ub","age_structure"
+"ELSI-Brazil, Bertola 2023 algorithm (weighted age-specific rates)",0.0775656721444578,0.0683182427930221,0.0880915654577405,"Census 2022, 65+"
+"Primary age schedule, observed counts",0.0841702483564259,0.0474270617404732,0.141800278086988,"Census 2022, 65+"
+"Primary age schedule, authors' estimates",0.109588880459899,0.0669955451691228,0.170848560153295,"Census 2022, 65+"
+"ELSI-Brazil, harmonised algorithm (Aliberti 2026), as published",0.082,NA,NA,"ELSI-Brazil 2015-16, survey-weighted"
+"ELSI-Brazil, harmonised algorithm (Aliberti 2026), as published",0.08,0.069,0.09,"age- and sex-standardised (marginal standardisation)"

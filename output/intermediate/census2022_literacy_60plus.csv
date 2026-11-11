@@ -1,0 +1,449 @@
+"geo_code","geo","literacy","age_code","persons"
+1,"Brasil","literate","6613",1965775
+1,"Brasil","literate","6614",1737187
+1,"Brasil","literate","6615",1792194
+1,"Brasil","literate","6616",1637289
+1,"Brasil","literate","6617",1577985
+1,"Brasil","literate","3000",17679260
+1,"Brasil","literate","9486",6236913
+1,"Brasil","literate","113623",3284500
+1,"Brasil","illiterate","6613",273716
+1,"Brasil","illiterate","6614",224499
+1,"Brasil","illiterate","6615",258479
+1,"Brasil","illiterate","6616",232215
+1,"Brasil","illiterate","6617",245050
+1,"Brasil","illiterate","3000",4489841
+1,"Brasil","illiterate","9486",2197420
+1,"Brasil","illiterate","113623",1302454
+11,"Rondônia","literate","6613",13442
+11,"Rondônia","literate","6614",11373
+11,"Rondônia","literate","6615",11865
+11,"Rondônia","literate","6616",10833
+11,"Rondônia","literate","6617",10033
+11,"Rondônia","literate","3000",92409
+11,"Rondônia","literate","9486",27082
+11,"Rondônia","literate","113623",13087
+11,"Rondônia","illiterate","6613",2229
+11,"Rondônia","illiterate","6614",1888
+11,"Rondônia","illiterate","6615",2124
+11,"Rondônia","illiterate","6616",2005
+11,"Rondônia","illiterate","6617",1983
+11,"Rondônia","illiterate","3000",35862
+11,"Rondônia","illiterate","9486",16929
+11,"Rondônia","illiterate","113623",9678
+12,"Acre","literate","6613",4355
+12,"Acre","literate","6614",3615
+12,"Acre","literate","6615",3846
+12,"Acre","literate","6616",3347
+12,"Acre","literate","6617",3090
+12,"Acre","literate","3000",30982
+12,"Acre","literate","9486",9624
+12,"Acre","literate","113623",4855
+12,"Acre","illiterate","6613",1609
+12,"Acre","illiterate","6614",1482
+12,"Acre","illiterate","6615",1533
+12,"Acre","illiterate","6616",1468
+12,"Acre","illiterate","6617",1501
+12,"Acre","illiterate","3000",21588
+12,"Acre","illiterate","9486",9475
+12,"Acre","illiterate","113623",5275
+13,"Amazonas","literate","6613",24473
+13,"Amazonas","literate","6614",20141
+13,"Amazonas","literate","6615",21669
+13,"Amazonas","literate","6616",19056
+13,"Amazonas","literate","6617",18096
+13,"Amazonas","literate","3000",173515
+13,"Amazonas","literate","9486",53213
+13,"Amazonas","literate","113623",26573
+13,"Amazonas","illiterate","6613",4651
+13,"Amazonas","illiterate","6614",3534
+13,"Amazonas","illiterate","6615",4333
+13,"Amazonas","illiterate","6616",3619
+13,"Amazonas","illiterate","6617",3802
+13,"Amazonas","illiterate","3000",60093
+13,"Amazonas","illiterate","9486",27093
+13,"Amazonas","illiterate","113623",15864
+14,"Roraima","literate","6613",3593
+14,"Roraima","literate","6614",3039
+14,"Roraima","literate","6615",3211
+14,"Roraima","literate","6616",2730
+14,"Roraima","literate","6617",2683
+14,"Roraima","literate","3000",23382
+14,"Roraima","literate","9486",6264
+14,"Roraima","literate","113623",3000
+14,"Roraima","illiterate","6613",624
+14,"Roraima","illiterate","6614",512
+14,"Roraima","illiterate","6615",618
+14,"Roraima","illiterate","6616",524
+14,"Roraima","illiterate","6617",551
+14,"Roraima","illiterate","3000",8993
+14,"Roraima","illiterate","9486",3999
+14,"Roraima","illiterate","113623",2214
+15,"Pará","literate","6613",53451
+15,"Pará","literate","6614",45865
+15,"Pará","literate","6615",48037
+15,"Pará","literate","6616",42928
+15,"Pará","literate","6617",41360
+15,"Pará","literate","3000",421117
+15,"Pará","literate","9486",139260
+15,"Pará","literate","113623",70621
+15,"Pará","illiterate","6613",12452
+15,"Pará","illiterate","6614",10165
+15,"Pará","illiterate","6615",11644
+15,"Pará","illiterate","6616",10609
+15,"Pará","illiterate","6617",10787
+15,"Pará","illiterate","3000",167917
+15,"Pará","illiterate","9486",75453
+15,"Pará","illiterate","113623",42771
+16,"Amapá","literate","6613",4194
+16,"Amapá","literate","6614",3616
+16,"Amapá","literate","6615",3595
+16,"Amapá","literate","6616",3403
+16,"Amapá","literate","6617",3154
+16,"Amapá","literate","3000",29157
+16,"Amapá","literate","9486",9076
+16,"Amapá","literate","113623",4480
+16,"Amapá","illiterate","6613",850
+16,"Amapá","illiterate","6614",720
+16,"Amapá","illiterate","6615",757
+16,"Amapá","illiterate","6616",747
+16,"Amapá","illiterate","6617",727
+16,"Amapá","illiterate","3000",10996
+16,"Amapá","illiterate","9486",5163
+16,"Amapá","illiterate","113623",3097
+17,"Tocantins","literate","6613",10939
+17,"Tocantins","literate","6614",9222
+17,"Tocantins","literate","6615",9621
+17,"Tocantins","literate","6616",8335
+17,"Tocantins","literate","6617",8457
+17,"Tocantins","literate","3000",85052
+17,"Tocantins","literate","9486",28094
+17,"Tocantins","literate","113623",14384
+17,"Tocantins","illiterate","6613",2578
+17,"Tocantins","illiterate","6614",2103
+17,"Tocantins","illiterate","6615",2505
+17,"Tocantins","illiterate","6616",2308
+17,"Tocantins","illiterate","6617",2389
+17,"Tocantins","illiterate","3000",45412
+17,"Tocantins","illiterate","9486",22388
+17,"Tocantins","illiterate","113623",13091
+21,"Maranhão","literate","6613",39215
+21,"Maranhão","literate","6614",33133
+21,"Maranhão","literate","6615",35095
+21,"Maranhão","literate","6616",29884
+21,"Maranhão","literate","6617",31661
+21,"Maranhão","literate","3000",311441
+21,"Maranhão","literate","9486",105110
+21,"Maranhão","literate","113623",55635
+21,"Maranhão","illiterate","6613",18616
+21,"Maranhão","illiterate","6614",14026
+21,"Maranhão","illiterate","6615",16957
+21,"Maranhão","illiterate","6616",14676
+21,"Maranhão","illiterate","6617",16205
+21,"Maranhão","illiterate","3000",261052
+21,"Maranhão","illiterate","9486",119929
+21,"Maranhão","illiterate","113623",69899
+22,"Piauí","literate","6613",22372
+22,"Piauí","literate","6614",19377
+22,"Piauí","literate","6615",20876
+22,"Piauí","literate","6616",16940
+22,"Piauí","literate","6617",18572
+22,"Piauí","literate","3000",182635
+22,"Piauí","literate","9486",62942
+22,"Piauí","literate","113623",33862
+22,"Piauí","illiterate","6613",9992
+22,"Piauí","illiterate","6614",8413
+22,"Piauí","illiterate","6615",9910
+22,"Piauí","illiterate","6616",8567
+22,"Piauí","illiterate","6617",10126
+22,"Piauí","illiterate","3000",166119
+22,"Piauí","illiterate","9486",78394
+22,"Piauí","illiterate","113623",44523
+23,"Ceará","literate","6613",66344
+23,"Ceará","literate","6614",55520
+23,"Ceará","literate","6615",56548
+23,"Ceará","literate","6616",46300
+23,"Ceará","literate","6617",47291
+23,"Ceará","literate","3000",550095
+23,"Ceará","literate","9486",203406
+23,"Ceará","literate","113623",112561
+23,"Ceará","illiterate","6613",24521
+23,"Ceará","illiterate","6614",19696
+23,"Ceará","illiterate","6615",21843
+23,"Ceará","illiterate","6616",18978
+23,"Ceará","illiterate","6617",20933
+23,"Ceará","illiterate","3000",362464
+23,"Ceará","illiterate","9486",174141
+23,"Ceará","illiterate","113623",103225
+24,"Rio Grande do Norte","literate","6613",26272
+24,"Rio Grande do Norte","literate","6614",23754
+24,"Rio Grande do Norte","literate","6615",22811
+24,"Rio Grande do Norte","literate","6616",19061
+24,"Rio Grande do Norte","literate","6617",19860
+24,"Rio Grande do Norte","literate","3000",218006
+24,"Rio Grande do Norte","literate","9486",80569
+24,"Rio Grande do Norte","literate","113623",44503
+24,"Rio Grande do Norte","illiterate","6613",8908
+24,"Rio Grande do Norte","illiterate","6614",7896
+24,"Rio Grande do Norte","illiterate","6615",8064
+24,"Rio Grande do Norte","illiterate","6616",6504
+24,"Rio Grande do Norte","illiterate","6617",7470
+24,"Rio Grande do Norte","illiterate","3000",129285
+24,"Rio Grande do Norte","illiterate","9486",62821
+24,"Rio Grande do Norte","illiterate","113623",37500
+25,"Paraíba","literate","6613",28176
+25,"Paraíba","literate","6614",26053
+25,"Paraíba","literate","6615",26020
+25,"Paraíba","literate","6616",22397
+25,"Paraíba","literate","6617",22579
+25,"Paraíba","literate","3000",260920
+25,"Paraíba","literate","9486",96888
+25,"Paraíba","literate","113623",53282
+25,"Paraíba","illiterate","6613",11544
+25,"Paraíba","illiterate","6614",10070
+25,"Paraíba","illiterate","6615",10845
+25,"Paraíba","illiterate","6616",9058
+25,"Paraíba","illiterate","6617",9949
+25,"Paraíba","illiterate","3000",177717
+25,"Paraíba","illiterate","9486",86640
+25,"Paraíba","illiterate","113623",51378
+26,"Pernambuco","literate","6613",70012
+26,"Pernambuco","literate","6614",60104
+26,"Pernambuco","literate","6615",64398
+26,"Pernambuco","literate","6616",56540
+26,"Pernambuco","literate","6617",52735
+26,"Pernambuco","literate","3000",598666
+26,"Pernambuco","literate","9486",213011
+26,"Pernambuco","literate","113623",113100
+26,"Pernambuco","illiterate","6613",24215
+26,"Pernambuco","illiterate","6614",18928
+26,"Pernambuco","illiterate","6615",22774
+26,"Pernambuco","illiterate","6616",19617
+26,"Pernambuco","illiterate","6617",19436
+26,"Pernambuco","illiterate","3000",324734
+26,"Pernambuco","illiterate","9486",149649
+26,"Pernambuco","illiterate","113623",85262
+27,"Alagoas","literate","6613",19096
+27,"Alagoas","literate","6614",16609
+27,"Alagoas","literate","6615",17779
+27,"Alagoas","literate","6616",15584
+27,"Alagoas","literate","6617",15534
+27,"Alagoas","literate","3000",152270
+27,"Alagoas","literate","9486",49862
+27,"Alagoas","literate","113623",25887
+27,"Alagoas","illiterate","6613",10177
+27,"Alagoas","illiterate","6614",8069
+27,"Alagoas","illiterate","6615",9575
+27,"Alagoas","illiterate","6616",8286
+27,"Alagoas","illiterate","6617",8632
+27,"Alagoas","illiterate","3000",127610
+27,"Alagoas","illiterate","9486",53904
+27,"Alagoas","illiterate","113623",28943
+28,"Sergipe","literate","6613",15471
+28,"Sergipe","literate","6614",13614
+28,"Sergipe","literate","6615",14154
+28,"Sergipe","literate","6616",12492
+28,"Sergipe","literate","6617",11514
+28,"Sergipe","literate","3000",123169
+28,"Sergipe","literate","9486",43113
+28,"Sergipe","literate","113623",23036
+28,"Sergipe","illiterate","6613",5812
+28,"Sergipe","illiterate","6614",4631
+28,"Sergipe","illiterate","6615",5415
+28,"Sergipe","illiterate","6616",4808
+28,"Sergipe","illiterate","6617",4706
+28,"Sergipe","illiterate","3000",78823
+28,"Sergipe","illiterate","9486",35389
+28,"Sergipe","illiterate","113623",19752
+29,"Bahia","literate","6613",111907
+29,"Bahia","literate","6614",96930
+29,"Bahia","literate","6615",104042
+29,"Bahia","literate","6616",91600
+29,"Bahia","literate","6617",91192
+29,"Bahia","literate","3000",952813
+29,"Bahia","literate","9486",339428
+29,"Bahia","literate","113623",182265
+29,"Bahia","illiterate","6613",35347
+29,"Bahia","illiterate","6614",28210
+29,"Bahia","illiterate","6615",33383
+29,"Bahia","illiterate","6616",29282
+29,"Bahia","illiterate","6617",31362
+29,"Bahia","illiterate","3000",553211
+29,"Bahia","illiterate","9486",273773
+29,"Bahia","illiterate","113623",162640
+31,"Minas Gerais","literate","6613",221911
+31,"Minas Gerais","literate","6614",202188
+31,"Minas Gerais","literate","6615",204945
+31,"Minas Gerais","literate","6616",193004
+31,"Minas Gerais","literate","6617",184081
+31,"Minas Gerais","literate","3000",2055700
+31,"Minas Gerais","literate","9486",731806
+31,"Minas Gerais","literate","113623",390131
+31,"Minas Gerais","illiterate","6613",22769
+31,"Minas Gerais","illiterate","6614",20292
+31,"Minas Gerais","illiterate","6615",22790
+31,"Minas Gerais","illiterate","6616",21940
+31,"Minas Gerais","illiterate","6617",22924
+31,"Minas Gerais","illiterate","3000",487392
+31,"Minas Gerais","illiterate","9486",256523
+31,"Minas Gerais","illiterate","113623",156832
+32,"Espírito Santo","literate","6613",40588
+32,"Espírito Santo","literate","6614",35327
+32,"Espírito Santo","literate","6615",36853
+32,"Espírito Santo","literate","6616",34025
+32,"Espírito Santo","literate","6617",32909
+32,"Espírito Santo","literate","3000",346829
+32,"Espírito Santo","literate","9486",115994
+32,"Espírito Santo","literate","113623",62068
+32,"Espírito Santo","illiterate","6613",4443
+32,"Espírito Santo","illiterate","6614",3673
+32,"Espírito Santo","illiterate","6615",4279
+32,"Espírito Santo","illiterate","6616",4154
+32,"Espírito Santo","illiterate","6617",4164
+32,"Espírito Santo","illiterate","3000",84154
+32,"Espírito Santo","illiterate","9486",41966
+32,"Espírito Santo","illiterate","113623",25822
+33,"Rio de Janeiro","literate","6613",198275
+33,"Rio de Janeiro","literate","6614",170062
+33,"Rio de Janeiro","literate","6615",180868
+33,"Rio de Janeiro","literate","6616",167789
+33,"Rio de Janeiro","literate","6617",158147
+33,"Rio de Janeiro","literate","3000",1917417
+33,"Rio de Janeiro","literate","9486",697038
+33,"Rio de Janeiro","literate","113623",379392
+33,"Rio de Janeiro","illiterate","6613",10515
+33,"Rio de Janeiro","illiterate","6614",8489
+33,"Rio de Janeiro","illiterate","6615",9780
+33,"Rio de Janeiro","illiterate","6616",9263
+33,"Rio de Janeiro","illiterate","6617",9250
+33,"Rio de Janeiro","illiterate","3000",185774
+33,"Rio de Janeiro","illiterate","9486",90704
+33,"Rio de Janeiro","illiterate","113623",54694
+35,"São Paulo","literate","6613",499121
+35,"São Paulo","literate","6614",445083
+35,"São Paulo","literate","6615",460293
+35,"São Paulo","literate","6616",430623
+35,"São Paulo","literate","6617",412279
+35,"São Paulo","literate","3000",4772555
+35,"São Paulo","literate","9486",1710767
+35,"São Paulo","literate","113623",900239
+35,"São Paulo","illiterate","6613",25687
+35,"São Paulo","illiterate","6614",21016
+35,"São Paulo","illiterate","6615",24596
+35,"São Paulo","illiterate","6616",22692
+35,"São Paulo","illiterate","6617",23992
+35,"São Paulo","illiterate","3000",512631
+35,"São Paulo","illiterate","9486",269786
+35,"São Paulo","illiterate","113623",167117
+41,"Paraná","literate","6613",123336
+41,"Paraná","literate","6614",111066
+41,"Paraná","literate","6615",110440
+41,"Paraná","literate","6616",104027
+41,"Paraná","literate","6617",98059
+41,"Paraná","literate","3000",1097864
+41,"Paraná","literate","9486",378697
+41,"Paraná","literate","113623",190754
+41,"Paraná","illiterate","6613",9951
+41,"Paraná","illiterate","6614",8600
+41,"Paraná","illiterate","6615",9497
+41,"Paraná","illiterate","6616",9564
+41,"Paraná","illiterate","6617",9710
+41,"Paraná","illiterate","3000",201006
+41,"Paraná","illiterate","9486",100080
+41,"Paraná","illiterate","113623",58399
+42,"Santa Catarina","literate","6613",84089
+42,"Santa Catarina","literate","6614",76193
+42,"Santa Catarina","literate","6615",75802
+42,"Santa Catarina","literate","6616",69502
+42,"Santa Catarina","literate","6617",65966
+42,"Santa Catarina","literate","3000",723408
+42,"Santa Catarina","literate","9486",243549
+42,"Santa Catarina","literate","113623",122544
+42,"Santa Catarina","illiterate","6613",4025
+42,"Santa Catarina","illiterate","6614",3466
+42,"Santa Catarina","illiterate","6615",3810
+42,"Santa Catarina","illiterate","6616",3537
+42,"Santa Catarina","illiterate","6617",3564
+42,"Santa Catarina","illiterate","3000",71031
+42,"Santa Catarina","illiterate","9486",34555
+42,"Santa Catarina","illiterate","113623",20211
+43,"Rio Grande do Sul","literate","6613",138369
+43,"Rio Grande do Sul","literate","6614",129069
+43,"Rio Grande do Sul","literate","6615",128972
+43,"Rio Grande do Sul","literate","6616",120465
+43,"Rio Grande do Sul","literate","6617",116633
+43,"Rio Grande do Sul","literate","3000",1395418
+43,"Rio Grande do Sul","literate","9486",507202
+43,"Rio Grande do Sul","literate","113623",263403
+43,"Rio Grande do Sul","illiterate","6613",5830
+43,"Rio Grande do Sul","illiterate","6614",5184
+43,"Rio Grande do Sul","illiterate","6615",5660
+43,"Rio Grande do Sul","illiterate","6616",5554
+43,"Rio Grande do Sul","illiterate","6617",5780
+43,"Rio Grande do Sul","illiterate","3000",136482
+43,"Rio Grande do Sul","illiterate","9486",71190
+43,"Rio Grande do Sul","illiterate","113623",43415
+50,"Mato Grosso do Sul","literate","6613",25791
+50,"Mato Grosso do Sul","literate","6614",22686
+50,"Mato Grosso do Sul","literate","6615",23087
+50,"Mato Grosso do Sul","literate","6616",21106
+50,"Mato Grosso do Sul","literate","6617",20092
+50,"Mato Grosso do Sul","literate","3000",214705
+50,"Mato Grosso do Sul","literate","9486",72590
+50,"Mato Grosso do Sul","literate","113623",37013
+50,"Mato Grosso do Sul","illiterate","6613",2978
+50,"Mato Grosso do Sul","illiterate","6614",2589
+50,"Mato Grosso do Sul","illiterate","6615",2857
+50,"Mato Grosso do Sul","illiterate","6616",2757
+50,"Mato Grosso do Sul","illiterate","6617",2702
+50,"Mato Grosso do Sul","illiterate","3000",49741
+50,"Mato Grosso do Sul","illiterate","9486",24819
+50,"Mato Grosso do Sul","illiterate","113623",14882
+51,"Mato Grosso","literate","6613",30014
+51,"Mato Grosso","literate","6614",25634
+51,"Mato Grosso","literate","6615",26617
+51,"Mato Grosso","literate","6616",23613
+51,"Mato Grosso","literate","6617",22590
+51,"Mato Grosso","literate","3000",214377
+51,"Mato Grosso","literate","9486",65602
+51,"Mato Grosso","literate","113623",31575
+51,"Mato Grosso","illiterate","6613",4418
+51,"Mato Grosso","illiterate","6614",3549
+51,"Mato Grosso","illiterate","6615",4252
+51,"Mato Grosso","illiterate","6616",3790
+51,"Mato Grosso","illiterate","6617",3962
+51,"Mato Grosso","illiterate","3000",67663
+51,"Mato Grosso","illiterate","9486",31682
+51,"Mato Grosso","illiterate","113623",18378
+52,"Goiás","literate","6613",64913
+52,"Goiás","literate","6614",55783
+52,"Goiás","literate","6615",58207
+52,"Goiás","literate","6616",51716
+52,"Goiás","literate","6617",49671
+52,"Goiás","literate","3000",511476
+52,"Goiás","literate","9486",166777
+52,"Goiás","literate","113623",83588
+52,"Goiás","illiterate","6613",7643
+52,"Goiás","illiterate","6614",6220
+52,"Goiás","illiterate","6615",7413
+52,"Goiás","illiterate","6616",6814
+52,"Goiás","illiterate","6617",7164
+52,"Goiás","illiterate","3000",137397
+52,"Goiás","illiterate","9486",68485
+52,"Goiás","illiterate","113623",40211
+53,"Distrito Federal","literate","6613",26056
+53,"Distrito Federal","literate","6614",22131
+53,"Distrito Federal","literate","6615",22543
+53,"Distrito Federal","literate","6616",19989
+53,"Distrito Federal","literate","6617",19747
+53,"Distrito Federal","literate","3000",223882
+53,"Distrito Federal","literate","9486",79949
+53,"Distrito Federal","literate","113623",42662
+53,"Distrito Federal","illiterate","6613",1332
+53,"Distrito Federal","illiterate","6614",1078
+53,"Distrito Federal","illiterate","6615",1265
+53,"Distrito Federal","illiterate","6616",1094
+53,"Distrito Federal","illiterate","6617",1279
+53,"Distrito Federal","illiterate","3000",24694
+53,"Distrito Federal","illiterate","9486",12490
+53,"Distrito Federal","illiterate","113623",7381

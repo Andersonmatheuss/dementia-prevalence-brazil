@@ -1,0 +1,7 @@
+"variant","quantity","cases_median","cases_lb","cases_ub","share_of_variance_from_verification"
+"partial_pooling","total error (verification and random)",3008676.52209499,1927637.58633746,4547014.70861605,0.03307852610294
+"partial_pooling","verification parameters only",2981097.97917539,2746351.35536168,3228643.6538448,NA
+"partial_pooling","random error only (verification parameters at their means)",3020480.75291643,1959197.80862947,4500985.35636707,NA
+"no_pooling","total error (verification and random)",3023809.53157444,1848721.12950035,4849818.6248793,0.0917416323684411
+"no_pooling","verification parameters only",2990657.60396486,2646778.31163693,3545205.77011184,NA
+"no_pooling","random error only (verification parameters at their means)",3074024.84967494,1931334.03386675,4685896.93655788,NA

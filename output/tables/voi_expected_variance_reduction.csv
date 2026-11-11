@@ -1,0 +1,6 @@
+"design","current_se","expected_se_after","expected_variance_reduction_pct","failed_fits"
+"1 survey, n = 1,000, census age mix",357147.232824148,329945.035634677,13.9655760946497,0
+"1 survey, n = 5,000, census age mix",357147.232824148,325441.548760117,16.3301617656257,0
+"1 survey, n = 1,000, 85+ oversampled to 30%",357147.232824148,334670.82824134,10.9670834532758,0
+"3 surveys, n = 1,000 each, census age mix",357147.232824148,289804.053154945,33.2770737969172,0
+"5 surveys, n = 1,000 each, census age mix",357147.232824148,263514.344576911,44.3031262427319,0

@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article."
+title: "Dementia prevalence in Brazil and why national estimates disagree: reproducibility repository"
+type: software
+license: MIT
+repository-code: "https://github.com/Andersonmatheuss/dementia-prevalence-brazil"
+authors:
+  - family-names: "Pereira da Silva"
+    given-names: "Anderson Matheus"
+    orcid: "https://orcid.org/0009-0003-4789-6019"
+    affiliation: "Federal University of Pernambuco"
+  - family-names: "Santos"
+    given-names: "Diogo Haddad"
+  - family-names: "Lima Júnior"
+    given-names: "Daniel Vicente de Siqueira"
+  - family-names: "Tudella"
+    given-names: "Gabriel Caruso Novaes"
+  - family-names: "Cardoso"
+    given-names: "Leonardo Januário"
+  - family-names: "Ferreira"
+    given-names: "Guilherme Diniz"
+  - family-names: "de Castro"
+    given-names: "Wilson Coelho Nogueira"
+  - family-names: "Pinto"
+    given-names: "Eduarda Lima Ornelas"
+  - family-names: "Lee"
+    given-names: "Alice Mi"
+  - family-names: "Ahmed"
+    given-names: "Adil"
+  - family-names: "Perry"
+    given-names: "George"
+  - family-names: "Duarte"
+    given-names: "Filipe Silveira"
+keywords: [dementia, prevalence, Brazil, meta-analysis, bias analysis]
+preferred-citation:
+  type: article
+  title: "Dementia prevalence in Brazil and why national estimates disagree: a systematic review and meta-analysis with bias analysis"
+  authors:
+    - family-names: "Pereira da Silva"
+      given-names: "Anderson Matheus"
+    - name: "et al."

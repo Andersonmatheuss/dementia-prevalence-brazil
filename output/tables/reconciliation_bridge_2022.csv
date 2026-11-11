@@ -1,0 +1,10 @@
+"order","type","label","cases_median","cases_lb","cases_ub","source","increment"
+1,"step","ELSI-Brazil weighted rates",2024062.196,NA,NA,"triangulation_national_estimates.csv",NA
+2,"step","Meta-analysis, observed counts",2043482.93825592,1146953.54335607,3506361.89458017,"qba_two_phase_with_epifloripa.csv (primary)",19420.7422559201
+3,"step","Unexamined screen-positives corrected (NPV = 1.00)",2612589.77267781,1655036.36418482,3961294.6195262,"qba_two_phase_with_epifloripa.csv (primary)",569106.83442189
+4,"step","NPV = 0.99",2749190.1859319,1771720.93403805,4119409.45349433,"qba_two_phase_with_epifloripa.csv (primary)",136600.41325409
+5,"step","NPV = 0.97",3016530.50022089,1963769.99609428,4482733.88943186,"qba_two_phase_with_epifloripa.csv (primary)",267340.31428899
+6,"step","NPV = 0.95",3194854.8869845,2039247.48966152,4828685.62918405,"qba_two_phase_with_epifloripa.csv (primary)",178324.38676361
+7,"reference","Primary analysis (authors' population estimates)",2658583.38472937,1613079.80057039,4213680.85297949,"primary_burden_estimands.csv",NA
+8,"reference","Probabilistic bias analysis",3008676.52209499,1927637.58633746,4547014.70861605,"pba_screening_correction.csv",NA
+9,"reference","Delphi consensus 8.5%",2729646.65,NA,NA,"triangulation_national_estimates.csv",NA

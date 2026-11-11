@@ -1,0 +1,9 @@
+"study","report_id","role","in_primary","in_all_eight_populations","in_primary_bottino","in_primary_correa_ribeiro","in_primary_elsi_brazil","in_bottino_instead_of_scazufca"
+"Bertola_2023","Bertola_2023","external comparator",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+"Bottino_2008","Bottino_2008","sensitivity",FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+"Cesar_2015","Cesar_2016","primary",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+"EpiFloripa_2024","EpiFloripa_2024","primary",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+"Herrera_2002","Herrera_2002","primary",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+"Lopes_2012","Lopes_2012","primary",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+"Ribeiro_2013","CorreaRibeiro_2013","sensitivity",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+"Scazufca_2008","Scazufca_2008","primary",TRUE,TRUE,TRUE,TRUE,TRUE,FALSE

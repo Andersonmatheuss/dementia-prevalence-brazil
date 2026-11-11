@@ -1,0 +1,145 @@
+report_id,item,final,reason,page
+Herrera_2002,Q1,Yes,census-based list of urban addresses (25% of domiciles) plus all nursing homes: appropriate frame for the city's older adults,2
+Herrera_2002,Q2,Yes,Systematic sampling (every fourth address) from the census list gave a probability-based sample.,2
+Herrera_2002,Q3,Yes,"Sample size was calculated a priori and 1,656 participants gave a reasonably precise estimate (CI 6.0–8.5%).",2
+Herrera_2002,Q4,Yes,"Setting, age/sex, education, socioeconomic class and ethnicity of participants are described in detail.",3
+Herrera_2002,Q5,No,"Initial coverage was high, but screen-negatives were not examined, some screen-positives were lost or excluded, and nursing-home screen-positives skipped phase II.",5
+Herrera_2002,Q6,Yes,"Used DSM-IV and standard etiologic criteria with education-adjusted MMSE cutoffs and PFAQ, appropriate for a low-education population.",5
+Herrera_2002,Q7,No,"Only screen-positives received the full clinical assessment, so the condition was not measured the same way for all participants, although assessors were trained and diagnosis was by consensus.",2
+Herrera_2002,Q8,Yes,prevalence with 95% CI; systematic household sample needs no weighting,4
+Herrera_2002,Q9,Yes,"Almost all contacted subjects participated (only 9 refusals of 1,681), and 94% of screen-positives completed phase II.",3
+Nitrini_2005,Q1,,,2
+Nitrini_2005,Q2,,,2
+Nitrini_2005,Q3,,,2
+Nitrini_2005,Q4,,,3
+Nitrini_2005,Q5,,,2
+Nitrini_2005,Q6,,,2
+Nitrini_2005,Q7,,,2
+Nitrini_2005,Q8,,,2
+Nitrini_2005,Q9,,,3
+Bottino_2008,Q1,Yes,"Sampling used census-sector clusters of community-dwelling residents aged 60+ in São Paulo, though from only three districts.",2
+Bottino_2008,Q2,Yes,"Probability-proportional random selection of census sectors and blocks, with repeated visits before counting refusals, although refusals were not replaced.",2
+Bottino_2008,Q3,Yes,"Sample size was calculated for the expected prevalence and precision, and the 1,563 assessed approximates the target of 1,650.",2
+Bottino_2008,Q4,Yes,"Sociodemographics of the sample are given and compared with the census, and the setting and districts are described.",2
+Bottino_2008,Q5,No,"Only 65% of screen positives and screen negatives were clinically evaluated, and 24.6% of those assessed had incomplete workup, leaving considerable coverage bias despite comparisons.",3
+Bottino_2008,Q6,Yes,"Diagnosis used DSM-IV criteria with CAMDEX, and screening used education-adjusted MMSE cutoffs plus informant scales previously tested.",3
+Bottino_2008,Q7,No,two-phase: only screen-positives and a sample of screen-negatives examined; full work-up in 74% of examined positives,3
+Bottino_2008,Q8,Yes,"Weighting for cluster design and nonresponse, correction with predictive values, and CIs for observed prevalence were used, though no CI was given for the adjusted 12.9%.",3
+Bottino_2008,Q9,No,70% participation in phase 1 and 164 of 250 screen-positives examined in phase 2,8
+Tatsch_2006,Q1,,,2
+Tatsch_2006,Q2,,,2
+Tatsch_2006,Q3,,,2
+Tatsch_2006,Q4,,,2
+Tatsch_2006,Q5,,,3
+Tatsch_2006,Q6,,,2
+Tatsch_2006,Q7,,,3
+Tatsch_2006,Q8,,,3
+Tatsch_2006,Q9,,,2
+Lopes_2012,Q1,Yes,Sample drawn from census units of the community-dwelling population aged 60+ in Ribeirão Preto across three socioeconomic strata.,2
+Lopes_2012,Q2,Unclear,cluster sampling in three social regions; within-cluster selection and replacement not described,2
+Lopes_2012,Q3,Yes,"Sample size was calculated a priori (1,100) with 2% precision and 95% confidence, and 1,145 were evaluated.",2
+Lopes_2012,Q4,Yes,"Participants' age, gender, marital status, education and social class are tabulated, and the setting (city, population, census-based strata) is described.",4
+Lopes_2012,Q5,No,"Only 130 of 217 screen-positives and 30 of 58 sampled screen-negatives were examined, with examined participants cognitively better, so coverage was incomplete and biased.",4
+Lopes_2012,Q6,Yes,Dementia was diagnosed with CAMDEX and DSM-IV criteria after a screening combination with education-adjusted MMSE cut-offs validated for low-education populations.,3
+Lopes_2012,Q7,No,"Diagnostic assessment was applied to all screen-positives but only to a small subsample (30) of screen-negatives, and not all examinees completed labs and scans, so measurement was not uniform for all participants.",4
+Lopes_2012,Q8,Yes,"Confidence intervals are reported, prevalence was adjusted for screening performance, and data were weighted for cluster sampling and non-response.",3
+Lopes_2012,Q9,No,"Response was low (62.6% in phase 1 and 60% in phase 2); non-response was addressed by weighting, but the authors acknowledge the high attrition and that examined subjects were healthier, so it was not adequately managed.",8
+Scazufca_2008,Q1,Yes,"Sampling frame was all community residents aged 65+ in defined census sectors of a deprived area, though restricted to a disadvantaged area and excluding institutionalised people; fits the community target population locally.",3
+Scazufca_2008,Q2,Yes,"Door-knocking of all households in the census sectors with all eligible people invited (census approach), no sampling.",3
+Scazufca_2008,Q3,Yes,Sample size was calculated for precision and exceeded target (2072 vs 2000).,3
+Scazufca_2008,Q4,Yes,"Setting, area selection and participant demographic/socioeconomic characteristics are described in detail, with a table.",5
+Scazufca_2008,Q5,Yes,"91.4% of identified persons were assessed, non-participants were similar in age and sex, and all participants were included in the analysis (one-phase design with no unexamined screen-positives).",5
+Scazufca_2008,Q6,Yes,"DSM-IV diagnosis using the 10/66 protocol, which was validated cross-culturally and designed to avoid educational bias.",3
+Scazufca_2008,Q7,Yes,"Same one-phase protocol was applied to all participants by trained interviewers, with informant interviews, so no screen-negative verification issue; some minor weaknesses such as no neuroimaging.",4
+Scazufca_2008,Q8,Yes,"Prevalence is reported with 95% CIs, age standardisation and adjusted logistic regression; the design was a census, so weighting was not needed, though clustering by census sector was not accounted for.",5
+Scazufca_2008,Q9,Yes,Response rate was high (91.4%) with few refusals and no age or sex differences.,5
+RamosCerqueira_2005,Q1,,,2
+RamosCerqueira_2005,Q2,,,2
+RamosCerqueira_2005,Q3,,,1
+RamosCerqueira_2005,Q4,,,2
+RamosCerqueira_2005,Q5,,,3
+RamosCerqueira_2005,Q6,,,1
+RamosCerqueira_2005,Q7,,,4
+RamosCerqueira_2005,Q8,,,3
+RamosCerqueira_2005,Q9,,,3
+Magalhaes_2008,Q1,Yes,census of all residents aged 60+ of the village,2
+Magalhaes_2008,Q2,Yes,"All residents aged 60+ in the area were targeted (census-type), with no sampling, though the method of identifying them is not detailed.",2
+Magalhaes_2008,Q3,Unclear,466 participants; no sample size justification,3
+Magalhaes_2008,Q4,Yes,"The setting, age distribution, sex, literacy and the assessment team and procedures are described in reasonable detail.",3
+Magalhaes_2008,Q5,No,"Coverage was incomplete and missing data varied by analysis: 5 people without ID were left out, people with blindness, deafness or speech problems were excluded, and several analyses used fewer than 466 people.",3
+Magalhaes_2008,Q6,No,CAMCOG < 80 without education adjustment in a population 74.7% illiterate; possible dementia counted as cases (both raters missed this),2
+Magalhaes_2008,Q7,Yes,"The same CAMDEX protocol was applied at home to every participant by a trained clinical team, including an informant interview, with no screening stage that left negatives unexamined.",2
+Magalhaes_2008,Q8,No,overall prevalence and its CI not reported,4
+Magalhaes_2008,Q9,Yes,"Of 508 identified, only 7 refused and 14 were not found, so the response rate was high (~92% examined) and non-response was documented.",3
+Cesar_2016,Q1,Yes,"Households with residents aged 60+ were drawn from all IBGE census sectors (urban and rural) of the municipality, matching the community-dwelling target population, though 3 prison sectors were excluded.",2
+Cesar_2016,Q2,No,"random 20% of households, but 265 of the 630 participants were neighbours replacing refusals",2
+Cesar_2016,Q3,Yes,Sample size was calculated for 95% CI with 4% margin and the achieved 630 participants gave reasonably narrow CIs (about 3 points wide each side).,2
+Cesar_2016,Q4,Yes,"Setting, age, sex, education, race and socioeconomic level of participants are described in detail with tables.",4
+Cesar_2016,Q5,No,365 of 738 selected were examined; the rest were replacements; non-participants not described,7
+Cesar_2016,Q6,Yes,"Dementia was diagnosed per NIA-AA criteria using education-adjusted cutoffs and tests validated for low-education Brazilian populations, plus informant functional scales.",3
+Cesar_2016,Q7,Yes,"A single-phase design applied the same full assessment to all participants with consensus diagnosis by two specialist neurologists, though some interviews were by telephone for 6 and overdiagnosis in low-educated people is acknowledged.",2
+Cesar_2016,Q8,Unclear,95% CI reported; replacement and household clustering not accounted for,4
+Cesar_2016,Q9,No,A substantial share of selected people refused or were lost (318 of 738) and replacement by neighbours does not resolve non-response bias; authors admit this limitation.,7
+CorreaRibeiro_2013,Q1,No,"The frame is clients of a single private health plan in the North Zone of Rio (aged 65+), not the general community of older adults.",2
+CorreaRibeiro_2013,Q2,Yes,"Stratified random sampling by sex and age was used, with a census for the oldest strata and a random subsample of screen-negatives, with nonresponse weighting.",2
+CorreaRibeiro_2013,Q3,Yes,"683 evaluated participants gave a reasonably precise overall estimate (95% CI 14.4–19.8), though some subgroups are small.",5
+CorreaRibeiro_2013,Q4,Yes,"The setting, recruitment, age, sex, schooling, marital status and income of participants are described in detail.",5
+CorreaRibeiro_2013,Q5,No,"About 19% were lost before stage II and those lost differed (older, less educated, lower income), so coverage bias is acknowledged; some screen-positives were also not evaluated.",7
+CorreaRibeiro_2013,Q6,Yes,"DSM-IV by consensus of geriatricians after clinical, neuropsychological and informant assessment",7
+CorreaRibeiro_2013,Q7,No,"Diagnosis was by trained teams with consensus, but only 20% of screen-negatives (44) were examined, and screen-positives with FAQ<5 were not evaluated, so not all participants were assessed the same way.",4
+CorreaRibeiro_2013,Q8,Yes,Weighted prevalence with 95% CIs was reported and the complex design was incorporated in the analysis.,4
+CorreaRibeiro_2013,Q9,No,"About 19% of those interviewed did not undergo stage II, losses differed systematically from participants, and the authors acknowledge possible underestimation. Only weighting adjustments were applied.",2
+Bertola_2023,Q1,Yes,"ELSI-Brazil is a nationally representative population-based household sample of community-dwelling adults from 70 municipalities, and the 60+ subset matches the target population.",2
+Bertola_2023,Q2,Yes,nationally representative multistage probability sample,2
+Bertola_2023,Q3,Yes,"The sample of 5,249 gives a precise overall prevalence (CI 4.7–7.2), although the oldest and highest-education strata have wide intervals.",1
+Bertola_2023,Q4,Yes,"Sampling, setting, sociodemographics (age, education, sex) and comparison with national survey data are described in detail.",3
+Bertola_2023,Q5,Yes,"5,249 of 5,432 with cognitive data, analysed with survey weights",2
+Bertola_2023,Q6,Unclear,algorithm of cognitive impairment against regression-based norms plus IADL; not validated against clinical diagnosis,7
+Bertola_2023,Q7,Unclear,"same battery for all, but IQCODE for proxy respondents and no clinical examination",2
+Bertola_2023,Q8,Yes,"Weighted prevalence with logit-transformed 95% CIs was calculated, accounting for the complex survey design using Stata svy commands.",3
+Bertola_2023,Q9,Unclear,"The text gives no baseline response rate; nonresponse was handled by weighting, but the rate itself is not reported.",2
+Bezerra_2025,Q1,No,"The frame is an urban Indigenous community in Manaus aged 50+, not the general community of older adults, and the community list came from Indigenous leadership.",2
+Bezerra_2025,Q2,Yes,"Systematic house-to-house visits aimed at a census of all eligible people in the community, with no convenience sampling.",3
+Bezerra_2025,Q3,No,"With 141 participants and 18 dementia cases, the estimates are imprecise (wide CIs), and the authors acknowledge the small sample.",8
+Bezerra_2025,Q4,Yes,"Setting, recruitment, ethnicities, and sociodemographic and health characteristics are described in detail, although language and ethnic detail is partial.",4
+Bezerra_2025,Q5,Yes,141 of 167 eligible assessed,2
+Bezerra_2025,Q6,Unclear,"expert-panel classification from MMSE (education-adjusted), BCSB, fluency and PFAQ; not validated in this population",8
+Bezerra_2025,Q7,Yes,same protocol for all participants,8
+Bezerra_2025,Q8,Unclear,prevalence reported without a design-based analysis,6
+Bezerra_2025,Q9,Yes,84% of eligible assessed,2
+FerreiraFilho_2021,Q1,,,2
+FerreiraFilho_2021,Q2,,,2
+FerreiraFilho_2021,Q3,,,3
+FerreiraFilho_2021,Q4,,,3
+FerreiraFilho_2021,Q5,,,3
+FerreiraFilho_2021,Q6,,,5
+FerreiraFilho_2021,Q7,,,2
+FerreiraFilho_2021,Q8,,,3
+FerreiraFilho_2021,Q9,,,3
+Jacinto_2011,Q1,No,"Sample frame was outpatients of a single tertiary university hospital, not the general community of older adults.",2
+Jacinto_2011,Q2,Yes,random selection from outpatient lists,2
+Jacinto_2011,Q3,No,"Sample of 248 (dementia n=21) is small and was sized for detecting cases, not for precise prevalence estimation.",2
+Jacinto_2011,Q4,Yes,"Setting, inclusion criteria, age, education and sex of participants are described in reasonable detail.",2
+Jacinto_2011,Q5,No,"Only a random subset of screen-negatives was examined and many contacted patients did not participate, so coverage of the identified sample was incomplete.",2
+Jacinto_2011,Q6,Yes,DSM-IV by consensus panel,2
+Jacinto_2011,Q7,No,"Only screen-positives had full work-up (neuropsychology, labs, CT); screen-negatives were not examined equally, and some probable cases lacked evaluation.",2
+Jacinto_2011,Q8,No,No confidence intervals or weighting for the sampling and subsampling of controls; only group comparison tests were reported.,2
+Jacinto_2011,Q9,No,"Response was low (about 50%), refusals could not be compared, and authors acknowledge possible selection bias.",5
+deLuna_2025,Q1,,,3
+deLuna_2025,Q2,,,3
+deLuna_2025,Q3,,,3
+deLuna_2025,Q4,,,4
+deLuna_2025,Q5,,,3
+deLuna_2025,Q6,,,3
+deLuna_2025,Q7,,,6
+deLuna_2025,Q8,,,3
+deLuna_2025,Q9,,,3
+EpiFloripa_2024,Q1,Yes,"Sample drawn from census tracts of Florianópolis covering community-dwelling residents aged 60+, matching the target population.",2
+EpiFloripa_2024,Q2,Yes,Probabilistic two-stage cluster sampling with all residents 60+ invited; no replacement of refusals reported but sampling is appropriate.,2
+EpiFloripa_2024,Q3,Yes,"1,184 evaluated",1
+EpiFloripa_2024,Q4,Yes,"Setting, sampling, age, sex, education distribution and clinical variables are described in detail.",3
+EpiFloripa_2024,Q5,No,Only 41.9% of screen-positives and very few screen-negatives were fully evaluated; the authors acknowledge high attrition and possible underestimation.,3
+EpiFloripa_2024,Q6,Yes,"Used MMSE with education-adjusted cut-offs, ADL scale, CAMDEX and NIA criteria, which are recognised and adapted for low-education settings.",2
+EpiFloripa_2024,Q7,No,"Procedures differed (hospital, community, telephone postmortem) and almost all screen-negatives were not examined, though consensus diagnosis by two physicians was used.",3
+EpiFloripa_2024,Q8,No,cluster design not accounted for; corrected CI rests on NPV of 100% from 16 screen-negatives,3
+EpiFloripa_2024,Q9,No,"Initial response was about 80% in the community, but hospital-phase attrition was high, and the authors only partly managed it through home visits and postmortem interviews.",3

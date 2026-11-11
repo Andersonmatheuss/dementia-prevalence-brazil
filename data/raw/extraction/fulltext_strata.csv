@@ -1,0 +1,146 @@
+study,domain,category_source,category,n,cases,prev_pct,prev_lb,prev_ub,weighted,source,note
+Herrera_2002,overall,community-dwelling,all,1656,118,7.1,6.0,8.5,no,text p4,7.1% (6.0-8.5); 7.5% if one quarter of institutionalised added (not used: household population)
+Herrera_2002,age,65-69 years,65-69,614,10,,,,no,Table 3 p4,
+Herrera_2002,age,70-74 years,70-74,470,15,,,,no,Table 3 p4,
+Herrera_2002,age,75-79 years,75-79,266,21,,,,no,Table 3 p4,
+Herrera_2002,age,80-84 years,80-84,198,30,,,,no,Table 3 p4,
+Herrera_2002,age,85 or more,85+,108,42,,,,no,Table 3 p4,
+Herrera_2002,sex,Male,male,677,35,,,,no,Table 4 p4,
+Herrera_2002,sex,Female,female,979,83,,,,no,Table 4 p4,paper prints 9.4%; 83/979 = 8.5%
+Herrera_2002,education,Illiterate,none,567,69,,,,no,Table 5 p5,
+Herrera_2002,education,1-3 years,any,590,26,,,,no,Table 5 p5,
+Herrera_2002,education,4-7 years,any,356,18,,,,no,Table 5 p5,
+Herrera_2002,education,8 or more years,any,143,5,,,,no,Table 5 p5,
+Bottino_2008,overall,total sample,all,1563,107,6.8,5.6,8.0,no,Table 2 p4,"non-adjusted 6.8 (5.6-8.0); adjusted 12.9 (no CI) for design effect, nonresponse, PPV and NPV"
+Bottino_2008,age,60-64,60-64,368,9,,,,no,Table 4 p5,n = with + without dementia
+Bottino_2008,age,65-69,65-69,320,13,,,,no,Table 4 p5,n = with + without dementia
+Bottino_2008,age,70-74,70-74,311,22,,,,no,Table 4 p5,n = with + without dementia
+Bottino_2008,age,75-79,75-79,252,24,,,,no,Table 4 p5,n = with + without dementia
+Bottino_2008,age,80-84,80-84,128,17,,,,no,Table 4 p5,n = with + without dementia
+Bottino_2008,age,85-89,85-89,72,11,,,,no,Table 4 p5,n = with + without dementia
+Bottino_2008,age,>=90,90+,26,11,,,,no,Table 4 p5,n = with + without dementia
+Bottino_2008,sex,Female,female,1011,74,,,,no,Table 4 p5,
+Bottino_2008,sex,Male,male,466,33,,,,no,Table 4 p5,
+Bottino_2008,race,White,white,1089,67,,,,no,Table 4 p5,
+Bottino_2008,race,Brown,brown,222,22,,,,no,Table 4 p5,
+Bottino_2008,race,Black,black,109,13,,,,no,Table 4 p5,
+Bottino_2008,race,Asian,asian,53,3,,,,no,Table 4 p5,
+Bottino_2008,education,Illiterate,none,230,43,,,,no,Table 4 p5,
+Bottino_2008,education,1-4 years,any,624,42,,,,no,Table 4 p5,
+Bottino_2008,education,5-8 years,any,184,5,,,,no,Table 4 p5,
+Bottino_2008,education,9-11 years,any,145,6,,,,no,Table 4 p5,
+Bottino_2008,education,>=12 years,any,291,9,,,,no,Table 4 p5,
+Bottino_2008,class,A,A,70,2,,,,no,Table 4 p5,ABIPEME
+Bottino_2008,class,B,B,465,24,,,,no,Table 4 p5,ABIPEME
+Bottino_2008,class,C,C,492,25,,,,no,Table 4 p5,ABIPEME
+Bottino_2008,class,D,D,298,32,,,,no,Table 4 p5,ABIPEME
+Bottino_2008,class,E,E,133,21,,,,no,Table 4 p5,ABIPEME
+Lopes_2012,overall,total sample,all,1145,68,5.9,4.6,7.2,no,Table 2 p5,non-adjusted 5.9 (4.6-7.2); adjusted 12.5 (10.6-14.4)
+Lopes_2012,age,60-64,60-64,265,5,,,,no,Table 3 p5,n = with + without dementia (unweighted)
+Lopes_2012,age,65-69,65-69,267,6,,,,no,Table 3 p5,n = with + without dementia (unweighted)
+Lopes_2012,age,70-74,70-74,238,15,,,,no,Table 3 p5,n = with + without dementia (unweighted)
+Lopes_2012,age,75-79,75-79,154,15,,,,no,Table 3 p5,n = with + without dementia (unweighted)
+Lopes_2012,age,80-84,80-84,84,13,,,,no,Table 3 p5,n = with + without dementia (unweighted)
+Lopes_2012,age,85-89,85-89,27,5,,,,no,Table 3 p5,n = with + without dementia (unweighted)
+Lopes_2012,age,>=90,90+,17,8,,,,no,Table 3 p5,n = with + without dementia (unweighted)
+Lopes_2012,sex,Male,male,392,25,,,,no,Table 3 p5,
+Lopes_2012,sex,Female,female,666,43,,,,no,Table 3 p5,
+Lopes_2012,education,Illiterate,none,105,19,,,,no,Table 3 p5,
+Lopes_2012,education,1-4,any,449,27,,,,no,Table 3 p5,
+Lopes_2012,education,5-8,any,100,5,,,,no,Table 3 p5,
+Lopes_2012,education,9-11,any,197,7,,,,no,Table 3 p5,
+Lopes_2012,education,>=12 years,any,203,6,,,,no,Table 3 p5,
+Lopes_2012,class,A,A,117,8,,,,no,Table 3 p5,ABIPEME
+Lopes_2012,class,B,B,364,14,,,,no,Table 3 p5,ABIPEME
+Lopes_2012,class,C,C,317,19,,,,no,Table 3 p5,ABIPEME
+Lopes_2012,class,D,D,186,14,,,,no,Table 3 p5,ABIPEME
+Lopes_2012,class,E,E,61,9,,,,no,Table 3 p5,ABIPEME
+Scazufca_2008,overall,total,all,2072,105,5.1,4.1,6.0,no,text p6,5.1 (4.1-6.0); standardized 6.6 (5.4-7.8) not used
+Scazufca_2008,age,65-69,65-69,889,20,,,,no,Table 2 p7 (TOTAL rows),
+Scazufca_2008,age,70-74,70-74,556,11,,,,no,Table 2 p7 (TOTAL rows),
+Scazufca_2008,age,75-79,75-79,346,27,,,,no,Table 2 p7 (TOTAL rows),
+Scazufca_2008,age,80-84,80-84,169,23,,,,no,Table 2 p7 (TOTAL rows),
+Scazufca_2008,age,85 or more,85+,112,24,,,,no,Table 2 p7 (TOTAL rows),
+Scazufca_2008,sex,Female,female,1255,68,,,,no,Table 2 p7 (sum of FEMALE rows),
+Scazufca_2008,sex,Male,male,817,37,,,,no,Table 2 p7 (sum of MALE rows),
+Cesar_2015,overall,total,all,630,110,17.5,14.6,20.6,no,abstract and text p5,17.5 (14.6-20.6)
+Cesar_2015,age,60-64,60-64,152,8,,,,no,Table 1 p3,n = CN + CIND + dementia
+Cesar_2015,age,65-69,65-69,152,16,,,,no,Table 1 p3,n = CN + CIND + dementia
+Cesar_2015,age,70-74,70-74,117,18,,,,no,Table 1 p3,n = CN + CIND + dementia
+Cesar_2015,age,75-79,75-79,101,27,,,,no,Table 1 p3,n = CN + CIND + dementia
+Cesar_2015,age,80-84,80-84,63,19,,,,no,Table 1 p3,n = CN + CIND + dementia
+Cesar_2015,age,>=85,85+,45,22,,,,no,Table 1 p3,n = CN + CIND + dementia
+Cesar_2015,sex,Male,male,233,48,,,,no,Table 1 p3,
+Cesar_2015,sex,Female,female,397,62,,,,no,Table 1 p3,
+Cesar_2015,education,Illiterate,none,87,20,,,,no,Table 1 p3,
+Cesar_2015,education,1-4,any,348,76,,,,no,Table 1 p3,
+Cesar_2015,education,5-8,any,83,8,,,,no,Table 1 p3,
+Cesar_2015,education,9-11,any,51,2,,,,no,Table 1 p3,
+Cesar_2015,education,>=12,any,61,4,,,,no,Table 1 p3,
+Cesar_2015,class,A,A,26,3,,,,no,Table 1 p3,ABIPEME
+Cesar_2015,class,B,B,184,17,,,,no,Table 1 p3,ABIPEME
+Cesar_2015,class,C,C,315,66,,,,no,Table 1 p3,ABIPEME
+Cesar_2015,class,D,D,104,23,,,,no,Table 1 p3,ABIPEME
+Cesar_2015,class,E,E,1,1,,,,no,Table 1 p3,ABIPEME
+Ribeiro_2013,overall,total,all,683,115,16.9,14.4,19.8,yes,abstract; text p5,weighted 16.9 (14.4-19.8)
+Ribeiro_2013,age,67-69,65-69,79,3,,,,no,Table 1 p5,unweighted counts; first band starts at 67
+Ribeiro_2013,age,70-74,70-74,163,8,,,,no,Table 1 p5,unweighted counts
+Ribeiro_2013,age,75-79,75-79,158,14,,,,no,Table 1 p5,unweighted counts
+Ribeiro_2013,age,80-84,80-84,154,27,,,,no,Table 1 p5,unweighted counts
+Ribeiro_2013,age,85-89,85-89,79,32,,,,no,Table 1 p5,unweighted counts
+Ribeiro_2013,age,>90,90+,50,31,,,,no,Table 1 p5,unweighted counts
+Ribeiro_2013,sex,Male,male,199,25,,,,no,Table 1 p5,
+Ribeiro_2013,sex,Female,female,484,90,,,,no,Table 1 p5,
+Ribeiro_2013,education,0,none,25,13,,,,no,Table 1 p5,years of schooling
+Ribeiro_2013,education,1-4,any,108,34,,,,no,Table 1 p5,years of schooling
+Ribeiro_2013,education,5-8,any,139,30,,,,no,Table 1 p5,years of schooling
+Ribeiro_2013,education,9-12,any,213,20,,,,no,Table 1 p5,years of schooling
+Ribeiro_2013,education,>13,any,195,15,,,,no,Table 1 p5,years of schooling
+Ribeiro_2013,income,0-2 minimum wages,0-2,101,28,,,,no,Table 1 p5,personal income; not ABIPEME class
+Ribeiro_2013,income,2.1-5 minimum wages,2.1-5,225,36,,,,no,Table 1 p5,personal income; not ABIPEME class
+Ribeiro_2013,income,5.1-10 minimum wages,5.1-10,202,30,,,,no,Table 1 p5,personal income; not ABIPEME class
+Ribeiro_2013,income,>10 minimum wages,>10,121,13,,,,no,Table 1 p5,personal income; not ABIPEME class
+Bertola_2023,overall,total,all,5249,364,5.8,4.7,7.2,yes,Table 1 p4; abstract,weighted 5.8 (4.7-7.2)
+Bertola_2023,age,60-64,60-64,,,3.2,2.1,4.7,yes,Table 2 p4,weighted prevalence (95% CI)
+Bertola_2023,age,65-69,65-69,,,2.7,1.7,4.3,yes,Table 2 p4,weighted prevalence (95% CI)
+Bertola_2023,age,70-74,70-74,,,3.9,2.7,5.5,yes,Table 2 p4,weighted prevalence (95% CI)
+Bertola_2023,age,75-79,75-79,,,8.7,6.5,11.4,yes,Table 2 p4,weighted prevalence (95% CI)
+Bertola_2023,age,80-84,80-84,,,12.6,9.2,17.0,yes,Table 2 p4,weighted prevalence (95% CI)
+Bertola_2023,age,85-89,85-89,,,21.3,16.5,27.1,yes,Table 2 p4,weighted prevalence (95% CI)
+Bertola_2023,age,>=90,90+,,,42.8,32.8,53.4,yes,Table 2 p4,weighted prevalence (95% CI)
+Bertola_2023,sex,Female,female,3144,249,,,,no,Table 1 p4,dementia count by difference of columns
+Bertola_2023,sex,Male,male,2105,115,,,,no,Table 1 p4,by difference: 5249 - 3144; 364 - 249
+Bertola_2023,education,Illiterate,none,1132,190,,,,no,Table 1 p4,unweighted counts
+Bertola_2023,education,Less than primary education,any,1229,70,,,,no,Table 1 p4,unweighted counts
+Bertola_2023,education,Primary education,any,1561,73,,,,no,Table 1 p4,unweighted counts
+Bertola_2023,education,Middle school,any,443,12,,,,no,Table 1 p4,unweighted counts
+Bertola_2023,education,High school,any,592,11,,,,no,Table 1 p4,unweighted counts
+Bertola_2023,education,>=College,any,287,5,,,,no,Table 1 p4,unweighted counts
+EpiFloripa_2024,overall,classified,all,1043,47,4.5,3.241,5.758,no,text; Table 1,"crude 4.5 (3.241-5.758) on 1,043 classified of 1,184 evaluated; estimated 9.2 (7.446-10.954)"
+EpiFloripa_2024,age,65-69,65-69,214,0,,,,no,Table 1 (Total: without + with dementia),
+EpiFloripa_2024,age,70-74,70-74,294,5,,,,no,Table 1 (Total: without + with dementia),
+EpiFloripa_2024,age,75-79,75-79,222,12,,,,no,Table 1 (Total: without + with dementia),
+EpiFloripa_2024,age,80-84,80-84,195,8,,,,no,Table 1 (Total: without + with dementia),
+EpiFloripa_2024,age,>=85,85+,118,22,,,,no,Table 1 (Total: without + with dementia),
+EpiFloripa_2024,sex,Male,male,382,16,,,,no,Table 1 (Male columns summed over age),
+EpiFloripa_2024,sex,Female,female,661,31,,,,no,Table 1 (Female columns summed over age),
+EpiFloripa_2024,education,Illiteracy,none,73,9,,,,no,Table 1 (Total columns),
+EpiFloripa_2024,education,1-4,any,370,25,,,,no,Table 1 (Total columns),
+EpiFloripa_2024,education,5-8,any,174,8,,,,no,Table 1 (Total columns),
+EpiFloripa_2024,education,>=9,any,426,5,,,,no,Table 1 (Total columns),
+Magalhaes_2008,overall,total,all,466,231,,,,no,Table 2 p3 (sex 101 + 130; education 54 + 177),overall count not printed; age strata sum to 461/229 (5 lack age)
+Magalhaes_2008,age,60-69,60-69,225,99,,,,no,Table 2 p3,
+Magalhaes_2008,age,70-79,70-79,148,78,,,,no,Table 2 p3,
+Magalhaes_2008,age,80-89,80-89,73,39,,,,no,Table 2 p3,
+Magalhaes_2008,age,90-97,90+,15,13,,,,no,Table 2 p3,
+Magalhaes_2008,sex,Male,male,207,101,,,,no,Table 2 p3,
+Magalhaes_2008,sex,Female,female,259,130,,,,no,Table 2 p3,
+Magalhaes_2008,education,Illiterate,none,348,177,,,,no,Table 2 p3,
+Magalhaes_2008,education,Literate,any,118,54,,,,no,Table 2 p3,
+Bezerra_2025,overall,aged 50+,all,141,18,,,,no,Table 1 p5,12.8%; aged 60+: 72/13 from Table 2
+Bezerra_2025,overall,aged 60+,60+,72,13,,,,no,Table 2 p6 (60-69 + 70-79 + 80+),the review's age criterion
+Bezerra_2025,age,50-59 years,50-59,69,5,,,,no,Table 2 p6,
+Bezerra_2025,age,60-69 years,60-69,42,4,,,,no,Table 2 p6,
+Bezerra_2025,age,70-79 years,70-79,25,6,,,,no,Table 2 p6,
+Bezerra_2025,age,80+ years,80+,5,3,,,,no,Table 2 p6,
+Jacinto_2011,overall,outpatients,all,248,21,,,,no,text p3,clinic sample; sex counts in Table 1 refer to a 96-person subsample and are not used

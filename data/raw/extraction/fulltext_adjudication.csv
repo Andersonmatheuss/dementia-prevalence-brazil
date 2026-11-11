@@ -1,0 +1,33 @@
+report_id,field,current_value,verified_value,source,status,analysis_impact,note
+CorreaRibeiro_2013,age:85+,32/79,63/129,"Table 1 p5: 85-89 79/32; >90 50/31",corrected,primary age model and burden,"the >90 row (31 of 115 cases) was omitted; the 80+ total in the sheet also lacked it, so the inference '85-89 is 85+' was wrong"
+CorreaRibeiro_2013,age_lower,65,67,"Abstract and Table 1 p5 (first band 67-69)",corrected,description,"band labelled 65-69 is 67-69"
+CorreaRibeiro_2013,ses (income),"ClasseB-E 121/13, 202/30, 225/36, 101/28","personal income >10, 5.1-10, 2.1-5, 0-2 minimum wages",Table 1 p5,corrected,subgroup analysis,"income bands were stored as ABIPEME classes; different construct, cannot be pooled with class"
+CorreaRibeiro_2013,education labels,"lessprimary 108/34; primary 139/30; middle 213/20; high 195/15","1-4 years 108/34; 5-8 139/30; 9-12 213/20; >13 195/15",Table 1 p5,corrected,subgroup analysis,"values right, categories mislabelled relative to the other studies"
+Lopes_2012,age:60-64:n,269,265,"Table 3 p5 (5 + 260); 269 is Table 1",corrected,primary age model,"rule: cases and n of each band from the same table"
+Lopes_2012,sex:n,"F 726, M 419","F 666, M 392","Table 3 p5 (43+623; 25+367)",corrected,subgroup analysis,"n were from Table 1, cases from Table 3"
+Lopes_2012,observed for correction factor,68/1145,67/1052,"Table 3 p5 sums",corrected,primary (author-best) age model,"factor 12.5/5.94 applied to strata built on 1052 overstated the correction by about 7%"
+Bottino_2008,observed for correction factor,107/1563,107/1477,"Table 4 p5 sums (107 + 1370)",corrected,primary (author-best) age model,"strata exclude 86 = 250 - 164 unexamined screen-positives; factor overstated by about 6%"
+Bottino_2008,education:1-4 years,missing,624/42,"Table 4 p5 (42 + 582)",corrected,subgroup analysis,"largest education category omitted"
+Herrera_2002,education:8+ years,missing,143/5,"Table 5 p5",corrected,subgroup analysis,omitted category
+Cesar_2016,education:1-4 years,missing,348/76,"Table 1 p3 (189+83+76)",corrected,subgroup analysis,"largest education category omitted"
+Cesar_2016,sampling,—,"265 of 630 participants were neighbours replacing refusals","Figure 1 p3",added,risk of bias (JBI Q2),"replacement sampling not recorded before"
+Bertola_2023,education:middle school,missing,443/12,"Table 1 p4",corrected,subgroup analysis,omitted category
+Magalhaes_2008,cases_dementia,229,231,"Table 2 p3: sex 101+130; education 54+177",corrected,sensitivity analysis,"age strata sum to 229 because 5 participants lack age"
+Magalhaes_2008,age:80-84,73/39,80-89: 73/39,"Table 2 p3",corrected,description,mislabelled band (not used in the 5-year age model)
+Magalhaes_2008,education:literate,missing,118/54,"Table 2 p3",corrected,subgroup analysis,omitted category
+Bezerra_2025,overall used in sensitivity,18/141 (age 50+),13/72 (age 60+),"Table 2 p6: 60-69 42/4; 70-79 25/6; 80+ 5/3",corrected,sensitivity analysis,"the review's age criterion is 60+"
+Jacinto_2011,sex strata,"F 75/18, M 21/3","not a prevalence denominator","Table 1 p4: subsample of 96 (53 NCI, 22 CIND, 21 dementia)",flagged,subgroup analysis,"sex counts are from the 96-person subsample, not the 248 evaluated"
+FerreiraFilho_2021,sex:female:n,202,203,"text p3: 'The whole sample included 203 women (67.8%)'",corrected,none (excluded),
+EpiFloripa_2024,convention,47/1043 (authors' crude 4.5%),"unchanged; 1043 excludes the 141 unexamined screen-positives (243 - 102)","Table 1; text",documented,observed-count set,"authors' crude uses verified participants; Lopes, Bottino and Herrera crude count unexamined positives as non-cases"
+Herrera_2002,age and sex,"Table 3 and 4 values",confirmed,"Tables 3-4 p4",confirmed,—,"paper prints 9.4% for women; 83/979 = 8.5%"
+Bottino_2008,"age, sex, race, class, education (other categories)",sheet values,confirmed,"Table 4 p5",confirmed,—,"adjusted 12.9% has no published CI"
+Lopes_2012,"age 65+ bands, education, class",sheet values,confirmed,"Table 3 p5",confirmed,—,
+Scazufca_2008,"age, sex",sheet values,confirmed,"Table 2 p7",confirmed,—,"education and income only as ORs (no counts); diagnosis DSM-IV through the 10/66 protocol"
+Cesar_2016,"age, sex, class, other education",sheet values,confirmed,"Table 1 p3",confirmed,—,
+Bertola_2023,"weighted age rates, sex, other education",sheet values,confirmed,"Table 1 p4",confirmed,—,
+RamosCerqueira_2005,"age, sex",sheet values,confirmed,"Table 2 p3",confirmed,none (excluded),
+Bottino_2008,QBA ppv,107/164 (all cases),101/164 = 61.6%,"text p4: 101 of 164 screen-positives; 6 of 157 screen-negatives",corrected,bias analysis,"cases among examined negatives were counted in the PPV"
+Lopes_2012,QBA ppv,68/130 (all cases),67/130 = 51.5%,"text p4: 67 of 130 screen-positives; 1 of 30 screen-negatives",corrected,bias analysis,"cases among examined negatives were counted in the PPV"
+Ribeiro_2013,QBA (two-phase),not included,"271 screen-positive, 221 examined, 115 cases; 44 of 250 MMSE>=28 examined, 0 cases; 215 not examined","Figure 1 p3",added,bias analysis,"two-phase survey without examination of most screen-negatives; text and figure disagree on stage I counts"
+Lopes_2012,author estimate CI,not published (NA),12.5 (10.6-14.4),"Table 2 p5",corrected,primary analysis (variance),
+Ribeiro_2013,author estimate,115/683 = 16.8% (crude),weighted 16.9 (14.4-19.8),"abstract; text p5",corrected,primary analysis,"authors' population estimate is weighted"

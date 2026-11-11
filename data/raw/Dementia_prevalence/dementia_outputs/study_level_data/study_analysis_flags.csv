@@ -1,0 +1,16 @@
+"Study","Year","Region","Coleta","RecruitmentSetting","AgeLower","DiagnosticCriteria","included_primary_overall","included_primary_age_specific","included_all_settings_overall_sensitivity"
+"Bertola_2023",2023,"Brazil","Domiciliar","community-based",60,"Other",TRUE,TRUE,TRUE
+"Cesar_2015",2015,"Sudeste","Domiciliar","community-based",60,"Other",TRUE,TRUE,TRUE
+"FerreiraFilho_2021",2021,"Sul","Atenção Primária","health care-based",60,"Other",FALSE,FALSE,TRUE
+"Jacinto_2011",2011,"Sudeste","Ambulatório hospitalar","health care-based",65,"DSM-IV",FALSE,FALSE,TRUE
+"Lopes_2012",2012,"Sudeste","Domiciliar","community-based",60,"DSM-IV",TRUE,TRUE,TRUE
+"Ribeiro_2013",2013,"Sudeste","Domiciliar","community-based",65,"DSM-IV",TRUE,TRUE,TRUE
+"Tatsch_2006",2006,"Sudeste","Domiciliar","community-based",60,"DSM-IV",TRUE,FALSE,TRUE
+"Scazufca_2008",2008,"Sudeste","Domiciliar","community-based",65,"DSM-IV",TRUE,TRUE,TRUE
+"RamosCerqueira_2005",2005,"Sudeste","Domiciliar","community-based",65,"DSM-IV",TRUE,TRUE,TRUE
+"Magalhaes_2008",2008,"Nordeste","Domiciliar","community-based",60,"Other",TRUE,TRUE,TRUE
+"Bottino_2008",2008,"Sudeste","Domiciliar","community-based",60,"DSM-IV",TRUE,TRUE,TRUE
+"Herrera_2002",2002,"Sudeste","Domiciliar","community-based",65,"DSM-IV",TRUE,TRUE,TRUE
+"Nitrini_2005",2005,"Sudeste","Domiciliar","community-based",65,"DSM-IV",TRUE,FALSE,TRUE
+"Bezerra_2025",2025,"Norte","Aldeia Indigena (Domiciliar)","community-based",50,"Other",FALSE,FALSE,FALSE
+"Luna_2025",2025,"Nordeste","Ambulatório hospitalar","health care-based",60,"Other",FALSE,FALSE,TRUE
